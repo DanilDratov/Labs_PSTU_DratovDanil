@@ -16,4 +16,4 @@
 </div>
 
 ---
-![Картинка](https://www.hilton.com/im/en/NoHotel/15194279/shutterstock-1202203390.jpg?impolicy=crop&cw=5000&ch=2142&gravity=NorthWest&xposition=0&yposition=597&rw=3000&rh=1286)
+![Картинка](https://avatars.dzeninfra.ru/get-zen_doc/271828/pub_6a62a6ccca5cd84f555502c9_6a62a6cc8db10d116695f348/scale_1200)
