@@ -13,6 +13,7 @@ void fillNums(int* data, int len) {
 
 // Печатаем элементы массива в одну строку
 void printNums(const int* data, int len) {
+    
     if (!data || len <= 0) return; // Защита: если указатель пустой или длина <= 0 — выходим
 
     for (int idx = 0; idx < len; ++idx) { // Проходим по каждому элементу массива
